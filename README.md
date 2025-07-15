@@ -15,4 +15,3 @@ This bot is designed to automatically register an appointment with a surgeon at 
 
     🚀 Can be adapted to run as a background service or via CRON for scheduled attempts.
 
-Let me know if you want to add badges (Python version, Selenium, Flask, etc.) or structure the README with screenshots, installation instructions, and usage examples.
