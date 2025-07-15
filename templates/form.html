@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Форма записи. Гомельская городская клиническая поликлиника N3. Гомеля</title>
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    label { font-weight: bold; }
+    .success { background-color: #d4edda; padding: 10px; border-radius: 5px; color: #155724; }
+    .button { margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h2>Настройки записи</h2>
+  <form action="/submit" method="post">
+    <label>Логин:</label><br>
+    <input type="text" name="login"><br><br>
+
+    <label>ПИН:</label><br>
+    <input type="text" name="pin"><br><br>
+
+    <label>Фамилия врача:</label><br>
+    <input type="text" name="doctor"><br><br>
+
+    <label>Даты (через запятую если несколько дат):</label><br>
+    <input type="text" name="dates"><br><br>
+
+    <label>Время (через запятую если множественный выбор):</label><br>
+    <input type="text" name="times"><br><br>
+
+    <input type="submit" value="Сохранить данные" class="button">
+  </form>
+
+  {% if saved %}
+    <div class="success">
+      ✅ Данные сохранены!
+    </div>
+    <br>
+    <form action="/runbot" method="get">
+      <input type="submit" value="Запустить бота" class="button">
+    </form>
+  {% endif %}
+</body>
+</html>
