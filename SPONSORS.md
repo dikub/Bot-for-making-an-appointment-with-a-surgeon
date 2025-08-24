@@ -12,15 +12,6 @@ If my projects help you, you can support my work financially. Your support allow
 
 ---
 
-## 💰 Sponsorship Levels
-| Level    | Amount       | What Sponsors Get |
-|----------|-------------|------------------|
-| Bronze   | $1 / month  | Thank-you in the project |
-| Silver   | $5 / month  | Access to private repos, early releases |
-| Gold     | $10 / month | Personal advice, help with projects |
-| Platinum | $20 / month | Full access to all projects, individual support |
-
----
 
 ## 🔗 Ways to Support
 
@@ -29,12 +20,6 @@ If my projects help you, you can support my work financially. Your support allow
     <img src="https://img.shields.io/badge/Support-Ko--fi-29abe0?logo=kofi&style=for-the-badge" alt="Ko-fi">
   </a>
 </p>
-
----
-
-Thank you for your support! ❤️
-
-[![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-29abe0?logo=kofi)](https://ko-fi.com/andyou10)  
 
 ---
 
