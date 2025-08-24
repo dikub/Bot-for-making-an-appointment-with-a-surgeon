@@ -15,3 +15,4 @@ This bot is designed to automatically register an appointment with a surgeon at 
 
     🚀 Can be adapted to run as a background service or via CRON for scheduled attempts.
 
+    Support the project: [Sponsors](SPONSORS.md)
