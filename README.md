@@ -15,4 +15,11 @@ This bot is designed to automatically register an appointment with a surgeon at 
 
     🚀 Can be adapted to run as a background service or via CRON for scheduled attempts.
 
-    Support the project: [Sponsors](SPONSORS.md)
+  ## 💰 Support My Projects
+
+<p align="center">
+  <a href="https://ko-fi.com/andyou10" target="_blank">
+    <img src="https://img.shields.io/badge/Support-Ko--fi-29abe0?logo=kofi&style=for-the-badge" alt="Ko-fi">
+  </a>
+</p>
+
